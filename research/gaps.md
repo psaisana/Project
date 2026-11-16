@@ -14,6 +14,17 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 | 2026-11-16 (residential run) | HELF refund check for families of residents | P30–P33 | 18 | Pitched, residential rank 2 |
 | 2026-11-16 (residential run) | Apply-once pack for multiple homes | P34 | 16 | Below bar; shown as watch-list only, needs complaint evidence |
 
+| 2026-11-17 (verified rerun) | PaidUp: invoice creation, tracking and chasing for self-managing families and their workers (reshaped from the night 1 invoice builder; what changed: verified reviews show provider non-payment, not only format rejection) | P38–P42 | 22 | Rank 1 overall |
+| 2026-11-17 (verified rerun) | AT-HM evidence pack | P08–P11 | re-scored 16 | Dropped below bar: source says funding is the blocker |
+
+## Verification log (2026-11-17)
+
+- Verified at source: HelloCare (both articles), ABC, The Senior, Australian Ageing Agenda, The Ageing Agenda, ProductReview (HomeMade, Trilogy, Mable, Let's Get Care, Bupa), Earni, Wayly features, Aged Care Decisions FAQ, Trilogy billing page.
+- Refused or unreachable: Trustpilot (403), YourLifeChoices (403), agedcarequality.gov.au (no response), radcheck.com.au (no response). Quotes from those remain unverified.
+- Open question 1 answered: Earni's site covers the NDIS price guide only, no Support at Home.
+- Open question 7 answered in part: Aged Care Decisions lists "Find Respite Care" and is free to families.
+- Pages are fetched with curl; the built-in fetch tool fails in this environment.
+
 ## Killed (with the competitor or fact that killed it)
 
 | Date | Idea | Why killed | Link |
