@@ -10,6 +10,10 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 | 2026-11-16 | AT-HM evidence pack builder for occupational therapists and equipment suppliers | P08–P11 | 19 | Pitched, rank 2 |
 | 2026-11-16 | Agreed-price receipts for small Support at Home providers | P12–P13 | 20 on paper, ranked 3 because proof is audit data, not customer asks | Pitched, rank 3 |
 
+| 2026-11-16 (residential run) | Bed and respite ring-around service for families | P24–P29 | 22 | Pitched, residential rank 1 |
+| 2026-11-16 (residential run) | HELF refund check for families of residents | P30–P33 | 18 | Pitched, residential rank 2 |
+| 2026-11-16 (residential run) | Apply-once pack for multiple homes | P34 | 16 | Below bar; shown as watch-list only, needs complaint evidence |
+
 ## Killed (with the competitor or fact that killed it)
 
 | Date | Idea | Why killed | Link |
@@ -25,7 +29,20 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 | 2026-11-16 | Worker screening tracker | CVCheck, Checkmate, Koora; ShiftCare certifications add-on at $2/user | https://cvcheck.com/articles/aged-care-act-2024-worker-screening-updates-what-providers-need-to-know/ |
 | 2026-11-16 | Fair-rostering tool for workers | Real pain, nobody to pay for it | https://unitedworkers.org.au/media-release/showers-missed-care-going-missing-ai-rosters-fail-elderly-and-their-carers/ |
 
+| 2026-11-16 | Residential waitlist and enquiry manager for homes | NeRA (e-Tools), Pluss, CareOS list waitlist features; only 661 residential providers | https://www.plusscommunities.com/residential-aged-care-software |
+| 2026-11-16 | Residential service agreement transition kit | Deadline passed 1 Nov 2026; law firms and novocove cover it | https://novocove.com/blog/aged-care-service-agreement-transition-1-november-2026 |
+| 2026-11-16 | Residential fee estimator for families | At least seven free calculators (My Aged Care, Aged Care Guide, Carevo, Austax and others) | https://www.agedcareguide.com.au/aged-care-home-fee-estimator |
+| 2026-11-16 | Home comparison using the new public complaints data | Crowded directory space; regulator publishes the data itself | https://www.agedcarequality.gov.au/news-publications/media-releases/new-provider-level-complaints-data-increases-transparency-aged-care |
+| 2026-11-16 | GP access for residents | Real and severe, but needs doctors, not a no-code product | https://www.ama.com.au/articles/position-statement-medical-care-people-residential-aged-care-homes |
+| 2026-11-16 | Nurse documentation reduction | Needs clinical-system integration; enterprise sale | https://www.anmf.org.au/wp-content/uploads/2026/08/2026-08-07-anmf-aged-care-campaign-report-final.pdf |
+| 2026-11-16 | Agency staffing alternative for homes | Two-sided marketplace; vendors present | https://www.curki.ai/blog/reducing-agency-dependency-in-aged-care |
+
 ## Open questions carried forward
+
+6. Is RADCheck's aged care billing review service still trading, and what does it charge? https://radcheck.com.au/aged-care-billing-review/
+7. Does Aged Care Decisions actually place respite stays, given it is paid $2,950 per placement by providers? https://agedcaredecisions.com.au/faq/
+8. Paid companion visits to residents with photo updates for distant families: no provider found doing it inside homes, but no complaint evidence found either. Look for asks in carer forums.
+9. Lost hearing aids, dentures and glasses in homes: no Australian complaint evidence found tonight.
 
 1. Does Earni (NDIS sole-trader invoicing app) support Support at Home service names? Search found no mention. https://earni.au/
 2. What do Trilogy Care and HomeMade currently hand suppliers as an invoice template? Could not open their pages tonight.

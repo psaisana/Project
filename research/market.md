@@ -53,6 +53,16 @@ Last updated: 2026-11-16 (night 1). Figures are as reported by the linked source
 2. **Mable**: 16.6% combined take, complaints about slow pay and fee transparency.
 3. **Home care platforms**: providers pay per user and per client and still report heavy admin (one provider group told the Senate inquiry about 31 minutes of admin per hour of care, [Weekly Source](https://www.theweeklysource.com.au/31-minutes-of-admin-for-every-hour-of-care-support-at-home-inquiry/)).
 
+## Residential deep dive (added 2026-11-16, second run)
+
+- **Supply is the story.** National occupancy 93.44% in August 2026, metro 94.07%, a series high ([HelloCare](https://hellocare.com.au/no-relief-respite-beds-are-disappearing-as-aged-care-fills-up/)). Average wait for a bed 365 days per the federal Wait Times Report ([ABC, 9 Nov 2026](https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030)). More than 3,600 people in hospital waiting for a place ([NSW Government](https://www.nsw.gov.au/ministerial-releases/over-3600-patients-stranded-hospital-waiting-for-aged-care)).
+- **Providers are consolidating.** About 60 left in 2025-26; 661 remained at 30 June 2026 ([Weekly Source](https://www.theweeklysource.com.au/one-residential-aged-care-provider-leaves-the-sector-each-week-heres-why/)). That is too few buyers for a low-priced B2B tool; the reachable residential customer is the family.
+- **Homes are full, so they stopped selling.** Respite beds are being converted to permanent use; families pay intermediaries instead.
+- **What families pay to find a bed:** Aged Care Decisions is free to families and charges providers $2,950 per placement ([FAQ](https://agedcaredecisions.com.au/faq/)). Care & Co Match charges $350 for advice and $3,900 for residential concierge ([site](https://careandcomatch.com.au/)). Other private placement services publish $1,000 to $4,000.
+- **Fees are the fastest-growing complaint.** 10,628 complaints from 1 Nov 2025 to 30 Jun 2026, up 45%; fees in the top three concerns ([Ageing Agenda](https://theageingagenda.com.au/operations/aged-care-complaints-jump-45-per-cent/)). HELF enforcement produced one refund of almost $200,000.
+- **Residential software for homes is covered:** HELF modules (Centrim Life, helf.services, Pluss, e-Tools, Inerva), waitlists (NeRA, Pluss, CareOS), fee calculators (seven or more, free).
+- **Pay a lot and still complain (residential):** placement services at $1,000–$4,000 while families still report beds "close to impossible" to find; HELF bundles reported at $42–$52 a day.
+
 ## Watch list (dates)
 
 - 24 Nov 2026: Senate committee report on Support at Home due
