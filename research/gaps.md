@@ -1,0 +1,34 @@
+# Gap log: ideas pitched and ideas killed
+
+Rule: never pitch anything on this page again unless the "what changed" column gets a new entry.
+
+## Pitched
+
+| Date | Idea | Pain IDs | Score | Status |
+|---|---|---|---|---|
+| 2026-11-16 | Compliant invoice builder for independent workers and small suppliers under self-managed Support at Home | P01–P07 | 21 | Pitched, rank 1 |
+| 2026-11-16 | AT-HM evidence pack builder for occupational therapists and equipment suppliers | P08–P11 | 19 | Pitched, rank 2 |
+| 2026-11-16 | Agreed-price receipts for small Support at Home providers | P12–P13 | 20 on paper, ranked 3 because proof is audit data, not customer asks | Pitched, rank 3 |
+
+## Killed (with the competitor or fact that killed it)
+
+| Date | Idea | Why killed | Link |
+|---|---|---|---|
+| 2026-11-16 | Family statement checker for Support at Home | Wayly sells a Statement Decoder and Invoice Checker at $24.50/fortnight | https://wayly.com.au/ |
+| 2026-11-16 | CHSP-to-Support-at-Home readiness kit | Government abandoned the merger in August 2026; CHSP standalone to mid-2029 | https://www.healthservicesdaily.com.au/government-abandons-plan-to-fold-chsp-into-support-at-home/51193 |
+| 2026-11-16 | HELF agreement, cooling-off and annual review tracker | Centrim Life, helf.services, Pluss, e-Tools, Inerva already sell it | https://helf.services/ |
+| 2026-11-16 | Care management 15-minute time tracker | Shipped by Visualcare, Lookout, Statura, CareVision, Five Good Friends | https://support.visualcare.com.au/client-management/sah-care-management |
+| 2026-11-16 | Evidence-of-service-delivery capture | didyougo targets it; platforms have visit verification | https://didyougo.com.au/post/what-counts-as-evidence-of-service-delivery-support-at-home |
+| 2026-11-16 | Provider monthly statement generator | Governa AI, airdocs and every platform | https://www.governa.ai/blog-posts/support-at-home-monthly-statements |
+| 2026-11-16 | Provider-side supplier invoice automation | Invoice Harbour | https://invoiceharbour.com.au/ |
+| 2026-11-16 | Care minutes audit reconciliation | Enterprise sale, needs payroll and roster integrations; Willow and audit firms present | https://heywillow.ai/insights/care-minutes-aged-care-215-minutes-compliance-guide |
+| 2026-11-16 | Worker screening tracker | CVCheck, Checkmate, Koora; ShiftCare certifications add-on at $2/user | https://cvcheck.com/articles/aged-care-act-2024-worker-screening-updates-what-providers-need-to-know/ |
+| 2026-11-16 | Fair-rostering tool for workers | Real pain, nobody to pay for it | https://unitedworkers.org.au/media-release/showers-missed-care-going-missing-ai-rosters-fail-elderly-and-their-carers/ |
+
+## Open questions carried forward
+
+1. Does Earni (NDIS sole-trader invoicing app) support Support at Home service names? Search found no mention. https://earni.au/
+2. What do Trilogy Care and HomeMade currently hand suppliers as an invoice template? Could not open their pages tonight.
+3. What happens to a provider after a failed payment integrity review (repayment, sanctions)? Not found.
+4. Who is behind Wayly, and is it funded? Not found.
+5. Reddit, X, Facebook groups and app-store reviews were not reachable tonight; the pain database is built from review sites, trade press and government reports only.
