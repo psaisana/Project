@@ -63,6 +63,14 @@ Last updated: 2026-11-16 (night 1). Figures are as reported by the linked source
 - **Residential software for homes is covered:** HELF modules (Centrim Life, helf.services, Pluss, e-Tools, Inerva), waitlists (NeRA, Pluss, CareOS), fee calculators (seven or more, free).
 - **Pay a lot and still complain (residential):** placement services at $1,000–$4,000 while families still report beds "close to impossible" to find; HELF bundles reported at $42–$52 a day.
 
+## Workforce, agency and software (added 2026-11-17)
+
+- **Software satisfaction is low and flat.** 64% of 300+ home care leaders say their system is inadequate, unchanged over four years; 55.6% say systems were not ready for Support at Home; 42.4% report integration problems; only 9.09% rate upgrades "very effective" ([Inside Ageing](https://insideageing.com.au/home-care-providers-still-struggling-with-digital-systems-as-reform-demands-grow-survey-finds/), [Weekly Source](https://www.theweeklysource.com.au/enkindle-support-at-home-leaves-providers-reliant-on-spreadsheets/), [HelloLeaders](https://helloleaders.com.au/article/home-care-technology-is-failing-and-providers-are-paying-the-price)). This is the clearest pay-a-lot-and-still-complain category found so far.
+- **No vendor-by-vendor ratings exist.** Comparison sites are editorial or vendor-funded.
+- **Payroll compliance:** Fair Work found 13 of 22 aged care employers non-compliant and recovered $5.3 million for about 3,600 workers; causes were classifications, overtime, broken shifts and minimum engagement ([Weekly Source](https://www.theweeklysource.com.au/fair-work-ombudsman-recovers-5-3-million-in-underpayments-for-3500-aged-care-workers/)).
+- **Worker app ratings (Apple, Australia):** ShiftCare 4.7 (18,846 ratings), Humanforce Work 4.8 (3,608) but a steady run of 1-star login and crash reviews in 2026, Brevity 2.0 (11), vWorker 2.5 (108), EmpLive 2.4 (104), Easy Employer 2.3 (23), eHCA 3.1 (83), CareApp 3.7 (27).
+- **Agency:** claim-validation, site induction and agency back-office tools all exist. The uncovered piece is resident information for agency staff at shift start, which needs clinical data.
+
 ## Watch list (dates)
 
 - 24 Nov 2026: Senate committee report on Support at Home due

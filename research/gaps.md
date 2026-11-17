@@ -17,6 +17,10 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 | 2026-11-17 (verified rerun) | PaidUp: invoice creation, tracking and chasing for self-managing families and their workers (reshaped from the night 1 invoice builder; what changed: verified reviews show provider non-payment, not only format rejection) | P38–P42 | 22 | Rank 1 overall |
 | 2026-11-17 (verified rerun) | AT-HM evidence pack | P08–P11 | re-scored 16 | Dropped below bar: source says funding is the blocker |
 
+| 2026-11-17 (workforce and software run) | VendorCheck: provider-verified scorecards of aged care software | P47–P52 | 22 | Rank 1 overall |
+| 2026-11-17 (workforce and software run) | Roster Pay Check: fixed-price check for broken-shift and minimum-engagement errors | P53–P54 | 19 | Pitched; delivery risk flagged |
+| 2026-11-17 (workforce and software run) | Agency Shift Card | P56–P58 | 17 | Near miss, not pitched |
+
 ## Verification log (2026-11-17)
 
 - Verified at source: HelloCare (both articles), ABC, The Senior, Australian Ageing Agenda, The Ageing Agenda, ProductReview (HomeMade, Trilogy, Mable, Let's Get Care, Bupa), Earni, Wayly features, Aged Care Decisions FAQ, Trilogy billing page.
@@ -48,6 +52,13 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 | 2026-11-16 | Nurse documentation reduction | Needs clinical-system integration; enterprise sale | https://www.anmf.org.au/wp-content/uploads/2026/08/2026-08-07-anmf-aged-care-campaign-report-final.pdf |
 | 2026-11-16 | Agency staffing alternative for homes | Two-sided marketplace; vendors present | https://www.curki.ai/blog/reducing-agency-dependency-in-aged-care |
 
+| 2026-11-17 | Support at Home claim file checker | quickclaim and VIPS Care validate claims before submission | https://quickclaim.com.au/resources/support-at-home/support-at-home-financial-sustainability |
+| 2026-11-17 | Agency staff site induction | Altora, LinkSafe, Induct For Work | https://linksafe.com.au/aged-care-induction-software/ |
+| 2026-11-17 | Portable training record for workers | Ausmed Passport; planned worker registration scheme | https://www.ausmed.com/organisations/thebuild/aged-care-worker-registration-scheme |
+| 2026-11-17 | Paid-training-time tracker | One case (Regis); learning systems already report duration | https://hellocare.com.au/regis-to-back-pay-staff-for-unpaid-mandatory-training-after-fair-work-dispute/ |
+| 2026-11-17 | Nursing agency back-office software | Rosterflux, Humanz, 20X, NextCrew | https://rosterflux.com/industries/nursing |
+| 2026-11-17 | Better roster app for workers | Complaints are vendor bugs; workers neither choose nor pay | https://apps.apple.com/au/app/id1550225245 |
+
 ## Open questions carried forward
 
 6. Is RADCheck's aged care billing review service still trading, and what does it charge? https://radcheck.com.au/aged-care-billing-review/
@@ -60,3 +71,6 @@ Rule: never pitch anything on this page again unless the "what changed" column g
 3. What happens to a provider after a failed payment integrity review (repayment, sanctions)? Not found.
 4. Who is behind Wayly, and is it funded? Not found.
 5. Reddit, X, Facebook groups and app-store reviews were not reachable tonight; the pain database is built from review sites, trade press and government reports only.
+10. Does Enkindle plan to publish vendor-level results? If so VendorCheck loses its gap. https://enkindle.com.au/
+11. Fair Work Ombudsman's own aged care investigations report did not load; read it for the full list of error types.
+12. Source tip: Apple's public review feed (itunes.apple.com/au/rss/customerreviews/id=APPID/sortby=mostrecent/json) and HelloCare article comments are reachable and carry dated worker voices.
